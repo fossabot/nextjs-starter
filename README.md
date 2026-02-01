@@ -33,6 +33,9 @@ Zsofia Komaromi: [X](https://x.com/zsofiakomaromi), [LinkedIn](https://www.linke
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br><br>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fnextjs-starter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fnextjs-starter?ref=badge_large)
+
 # **Once UI for Figma**
 
 Once UI is also available for Figma.  
@@ -44,5 +47,6 @@ Grab a copy from the [Figma Community](https://figma.com/).
 # **Deploy your project**
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/76DR9Q?referralCode=QW2HBC)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fnextjs-starter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fnextjs-starter?ref=badge_shield)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fnextjs-starter&redirect-url=https%3A%2F%2Fonce-ui.com%2Fdocs%2F)
